@@ -153,9 +153,9 @@ Google Trust Services
 
 ## Capturas
 
-![Panel Network sitio comercial](capturas/comercial-network.png)
+![Panel Network sitio comercial](capturas/comercial-network.png.png)
 
-![Certificado TLS sitio comercial](capturas/comercial-certificado.png)
+![Certificado TLS sitio comercial](capturas/comercial-certificado.png.png)
 
 ## Observaciones
 
