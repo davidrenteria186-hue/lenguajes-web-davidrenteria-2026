@@ -52,9 +52,9 @@ Google Trust Services
 
 ### Capturas
 
-![Panel Network sitio Estado](capturas/estado-network.png)
+![Panel Network sitio Estado](capturas/estado-network.png.png)
 
-![Certificado TLS sitio Estado](capturas/estado-certificado.png)
+![Certificado TLS sitio Estado](capturas/estado-certificado.png.png)
 
 # 2. Sitio universitario
 
