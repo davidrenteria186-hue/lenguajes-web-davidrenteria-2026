@@ -157,7 +157,7 @@ Google Trust Services
 <img width="380" height="311" alt="estado-network png" src="https://github.com/user-attachments/assets/1d74bfd3-f870-42bc-b398-886feea895dd" />
 comercial-network.png.png)
 
-![Certificado TLS sitio comercial](capturas/sitiocomercial-certificado.png.png)
+
 
 ## Observaciones
 
