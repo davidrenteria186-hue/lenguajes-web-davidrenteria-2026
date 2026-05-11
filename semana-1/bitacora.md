@@ -98,9 +98,6 @@ DigiCert
 
 ## Capturas
 
-![Panel Network sitio universitario](capturas/capturasuniversidad-network.png.png)
-
-![Certificado TLS sitio universitario](capturas/capturasuniversidad-certificado.png.png)
 
 ## Observaciones<img width="634" height="659" alt="capturasuniversidad-certificado png" src="https://github.com/user-attachments/assets/85cbb9f3-c4ef-4f66-b553-43db70584d07" />
 <img width="543" height="620" alt="capturasuniversidad-network png" src="https://github.com/user-attachments/assets/4dd01a87-fd04-4f39-aeec-7284b833b45a" />
