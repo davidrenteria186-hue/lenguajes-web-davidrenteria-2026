@@ -98,11 +98,14 @@ DigiCert
 
 ## Capturas
 
-![Panel Network sitio universitario](capturas/universidad-network.png)
+![Panel Network sitio universitario](capturas/capturasuniversidad-network.png.png)
 
-![Certificado TLS sitio universitario](capturas/universidad-certificado.png)
+![Certificado TLS sitio universitario](capturas/capturasuniversidad-certificado.png.png)
 
-## Observaciones
+## Observaciones<img width="634" height="659" alt="capturasuniversidad-certificado png" src="https://github.com/user-attachments/assets/85cbb9f3-c4ef-4f66-b553-43db70584d07" />
+<img width="543" height="620" alt="capturasuniversidad-network png" src="https://github.com/user-attachments/assets/4dd01a87-fd04-4f39-aeec-7284b833b45a" />
+<img width="543" height="620" alt="capturasuniversidad-network png" src="https://github.com/user-attachments/assets/a5b20d47-c399-491e-96b6-73b084d36988" />
+
 
 El sitio universitario presentó una carga estable y rápida, con menos solicitudes y recursos que otros sitios analizados. Se observaron imágenes, hojas de estilo y scripts necesarios para el funcionamiento de la página.
 
