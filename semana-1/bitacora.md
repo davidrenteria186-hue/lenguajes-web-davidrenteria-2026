@@ -153,9 +153,11 @@ Google Trust Services
 
 ## Capturas
 
-![Panel Network sitio comercial](capturas/comercial-network.png.png)
+![Panel Network sitio comercial](capturas/sitio<img width="545" height="615" alt="estado-certificado png" src="https://github.com/user-attachments/assets/1cfeb886-d073-495f-8952-7228986978f7" />
+<img width="380" height="311" alt="estado-network png" src="https://github.com/user-attachments/assets/1d74bfd3-f870-42bc-b398-886feea895dd" />
+comercial-network.png.png)
 
-![Certificado TLS sitio comercial](capturas/comercial-certificado.png.png)
+![Certificado TLS sitio comercial](capturas/sitiocomercial-certificado.png.png)
 
 ## Observaciones
 
